@@ -1,2 +1,4 @@
 # hello-world
-First repository in this account
+Hello,
+I am Premnath and this is my first repository in this account.
+Thank you
